@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/dudameneses/whos-going/badge)](https://www.codefactor.io/repository/github/dudameneses/whos-going)
+
 # Who's Going
 
 On who's going we want to know, literally, who is going on whatever we want to schedule. 
