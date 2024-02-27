@@ -9,6 +9,7 @@ The idea is to set an event date and people will mark if they are going or not o
 
 - kotlin
 - maven
+- docker
 - redis (cache)
 - RESTful API
 - spring-boot (web, test and redis for now)
