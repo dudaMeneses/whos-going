@@ -1,4 +1,4 @@
-package com.duda.whosgoing
+package com.duda.whosgoing.models
 import java.time.LocalDateTime
 
 class Event (
